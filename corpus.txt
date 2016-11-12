@@ -1,0 +1,3 @@
+i live in osaka . </s>
+i am a graduate student . </s>
+my school is in nara . </s>
